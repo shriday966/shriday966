@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Hriday 👋<br>ECE student at NIT Agartala | Siemens Scholar<br>Exploring web development, game development, and competitive programming.<br><br>🔹 What I'm Working On<br>Learning C C++, Java, AWS, Full Stack Web Development and GitHub<br>Building a retro-style browser for digital detox<br>Developing a 2D web game inspired by Solo Leveling<br>Practicing competitive programming<br>📫 Contact<br>Email: shriday966@gmail.com<br>GitHub: @shriday966
+Hi, I'm Hriday 👋<br>ECE student at NIT Agartala | Siemens Scholar<br>Exploring web development, game development, and competitive programming.<br><br>🔹 What I'm Working On<br>Learning C C++, Java, AWS, Full Stack Web Development and GitHub<br>Building a retro-style browser for digital detox<br>📫 Contact<br>Email: shriday966@gmail.com<br>GitHub: @shriday966
 
 
 ## 🌐 Socials:
